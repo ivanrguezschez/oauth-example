@@ -1,6 +1,9 @@
 # oauth-example
 Aplicación de ejemplo que usa OAuth y proporciona un servidor de autorización, un servido de recursos y un cliente.
 
+Diagrama de Oauth2 Flow:
+![image](diagrama-oauth2-flow.png)
+
 ## oauth-server
 Aplicación OAuth2 de servidor de autorización.
 
